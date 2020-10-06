@@ -1,0 +1,6 @@
+C:\Users\aobor\source\repos\0110Chelgu\0110Chelgu\obj\Debug\0110Chelgu.csprojAssemblyReference.cache
+C:\Users\aobor\source\repos\0110Chelgu\0110Chelgu\bin\Debug\0110Chelgu.exe.config
+C:\Users\aobor\source\repos\0110Chelgu\0110Chelgu\bin\Debug\0110Chelgu.exe
+C:\Users\aobor\source\repos\0110Chelgu\0110Chelgu\bin\Debug\0110Chelgu.pdb
+C:\Users\aobor\source\repos\0110Chelgu\0110Chelgu\obj\Debug\0110Chelgu.exe
+C:\Users\aobor\source\repos\0110Chelgu\0110Chelgu\obj\Debug\0110Chelgu.pdb
